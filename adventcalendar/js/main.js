@@ -273,12 +273,12 @@
       {
         'date'  : '23.12.2021',
         'title':'title',
-        'content' : 'some content'
+        'content' : 'https://elearningcontent.south.hee.nhs.uk/SCAS/Gener8/360%20Hotspot%20Test/Panellum%20hotspot/image/test360img.jpeg'
       },
       {
         'date'  : '24.12.2021',
         'title':'Happy Christmas Evening',
-        'content' : 'img/background_trees.jpg'
+        'content' : 'https://elearningcontent.south.hee.nhs.uk/SCAS/Dementia_tiertwo/Direct/dementia_t2_direct_learning/pain_assessment.html'
       },
       {
         'date'  : '25.12.2021',
