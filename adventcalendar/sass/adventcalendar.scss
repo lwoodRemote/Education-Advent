@@ -57,7 +57,6 @@ body[data-theme="adventcalendar"] {
         line-height:1.4em;
         &:before {
           content: ';';
-          font-family: 'Typicons', sans-serif;
           margin:.15em .55em 0 0;
         }
       }
@@ -109,13 +108,12 @@ body[data-theme="adventcalendar"] {
       }
 
       &.active:before {
-        content:'i';
+        content:'✓';
         color:rgba(255, 241, 35, .6);
       }
 
       &:before {
-        font-family: 'Typicons', sans-serif;
-        content:'j';
+        content:'x';
         color:rgba(255, 255, 255, .5);
         float:right;
         text-shadow: .05em .05em .05em rgba(0, 0, 0, .5);
@@ -159,7 +157,6 @@ body[data-theme="adventcalendar"] {
       li {
 
         &:before {
-          font-family: 'Typicons', sans-serif;
           content:";";
           margin:-.15em .55em 0 0;
           color: rgba(0, 0, 0, .5);
@@ -168,9 +165,6 @@ body[data-theme="adventcalendar"] {
     }
   }
 
-  .typicons {
-    font-family: 'Typicons', sans-serif;
-  }
 
   .number,
   .day {
@@ -216,7 +210,5 @@ body[data-theme="adventcalendar"] {
     color:rgba(0, 0, 0, .7);
   }
 
-  .typicons {
-    font-family: 'Typicons', sans-serif;
-  }
+
 }
