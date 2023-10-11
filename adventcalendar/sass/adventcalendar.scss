@@ -1,0 +1,222 @@
+@import "compass/css3/images";
+@import "compass/css3";
+@import url(http://fonts.googleapis.com/css?family=Clicker+Script|Oleo+Script+Swash+Caps|Sacramento);
+@import url(http://weloveiconfonts.com/api/?family=typicons);
+
+body[data-theme="adventcalendar"] {
+  font: 1.5em/1.45em sans-serif;
+  color:#fff;
+
+  background-image: url(http://timpietrusky.github.com/adventcalendar/img/background_trees.jpg);
+
+  @include background(
+    linear-gradient(right, rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)),
+    linear-gradient(right, rgba(206, 190, 41, .3) 0%, rgba(155, 31, 80, .3) 33%, rgba(41, 137, 216, .3) 71%, rgba(137, 180, 255, .3) 95%),
+    url(http://timpietrusky.github.com/adventcalendar/img/background_trees.jpg)
+  );
+
+  background-size: 100%;
+  background-attachment: fixed;
+
+  a,
+  a:visited,
+  a:active {
+    text-decoration:none;
+    color:rgba(255, 255, 255, .9);
+    border-bottom:.1em solid rgba(255, 255, 255, .3);
+    padding-bottom:.15em;
+    @include transition(all .3s ease-in-out);
+  }
+
+  a:hover {
+    color:rgba(255, 255, 255, 1);
+    border-bottom:.1em solid rgba(255, 255, 255, .9);
+  }
+
+  h1 {
+    font: 2.6em 'Oleo Script Swash Caps', cursive;
+    color:rgba(0, 148, 117, 1);
+    text-shadow: .05em .05em .015em rgba(255, 255, 255, .9);
+    padding-left:.25em;
+    margin:.5em 0;
+  }
+
+  article[data-high="1"] {
+    font-family: 'Oleo Script Swash Caps', cursive;
+
+    p, ul {
+      font-size:1.5em;
+    }
+
+    ul {
+      list-style: none;
+      margin:0 0 .25em 0;
+      padding:0 0 0 1em;
+
+      li {
+        line-height:1.4em;
+        &:before {
+          content: ';';
+          font-family: 'Typicons', sans-serif;
+          margin:.15em .55em 0 0;
+        }
+      }
+    }
+  }
+
+  article[data-high="1"],
+  article[data-high="2"] {
+    background:rgba(0, 0, 0, .5);
+  }
+
+  .snow {
+    position:fixed;
+    top:0;
+    z-index:-1;
+  }
+
+  .adventcalendar ul {
+    list-style:none;
+    width:100%;
+    margin:0;
+    padding:0;
+
+    li {
+      font: 1.1em 'Oleo Script Swash Caps', cursive;
+      color:rgba(0, 0, 0, .9);
+      position: relative;
+      width: 20%;
+      min-height:5em;
+      float:left;
+      background:rgba(68, 0, 0, .95);
+      background:rgba(0, 0, 0, 0);
+
+      border-right:.15em solid rgba(255, 255, 255, 1);
+      border-bottom:.15em solid rgba(255, 255, 255, 1);
+
+      padding:.5em;
+      cursor:pointer;
+      @include transition(all .3s ease-in-out);
+
+      &:nth-child(5n) {
+        border-right:none;
+      }
+
+      &.active,
+      &:hover  {
+        background: rgba(0, 148, 117, .4);
+        color: rgba(0, 148, 117, 1);
+      }
+
+      &.active:before {
+        content:'i';
+        color:rgba(255, 241, 35, .6);
+      }
+
+      &:before {
+        font-family: 'Typicons', sans-serif;
+        content:'j';
+        color:rgba(255, 255, 255, .5);
+        float:right;
+        text-shadow: .05em .05em .05em rgba(0, 0, 0, .5);
+      }
+    }
+  }
+
+  footer {
+    font-size:.75em;
+    line-height:1.35em;
+  }
+
+  .output {
+    position:fixed;
+    opacity:0;
+    top:-16em;
+    left:0;
+    height:100%;
+    width:100%;
+    background:rgba(255, 255, 255, .95);
+    color:#000;
+    z-index:1;
+    overflow: auto;
+    @include transition(all .45s ease-in-out);
+
+    &.active {
+      opacity:1;
+      top:0;
+      height:100%;
+    }
+
+    h1 {
+      margin:0 0 .25em 0;
+    }
+
+    ul {
+      list-style: none;
+      margin:0;
+      padding:0 0 0 1em;
+
+      li {
+
+        &:before {
+          font-family: 'Typicons', sans-serif;
+          content:";";
+          margin:-.15em .55em 0 0;
+          color: rgba(0, 0, 0, .5);
+        }
+      }
+    }
+  }
+
+  .typicons {
+    font-family: 'Typicons', sans-serif;
+  }
+
+  .number,
+  .day {
+    font-size:2.35em;
+    font-weight: bold;
+    width:1.5em;
+    @include border-radius(.35em);
+    text-align: center;
+  }
+
+  .number {
+    background:rgba(255, 255, 255, 1);
+    @include box-shadow(.05em .05em .15em rgba(0, 0, 0, .4));
+  }
+
+  .day {
+    float:left;
+    padding:0;
+    color:#fff;
+    font: 1.6em/.45em 'Oleo Script Swash Caps', cursive;
+  }
+
+  .close {
+    width:100%;
+    height:1.5em;
+    z-index:1;
+    font-size:2.5em;
+    padding:.5em;
+    text-align:right;
+    background:rgba(0, 0, 0, .9);
+    color:#fff;
+    cursor:pointer;
+    @include transition(all .35s ease-out);
+
+    &:hover {
+      color:rgba(0, 148, 117, 1);
+    }
+  }
+
+  .date {
+    font-size:.85em;
+    margin:0 0 .25em 0;
+    color:rgba(0, 0, 0, .7);
+  }
+
+  .typicons {
+    font-family: 'Typicons', sans-serif;
+  }
+}
