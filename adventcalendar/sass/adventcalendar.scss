@@ -7,7 +7,7 @@ body[data-theme="adventcalendar"] {
   font: 1.5em/1.45em sans-serif;
   color:#fff;
 
-  background-image: url(http://timpietrusky.github.com/adventcalendar/img/background_trees.jpg);
+  background-image: url(http://timpietrusky.github.com/adventcalendar/img/background_trees.pg);
 
   @include background(
     linear-gradient(right, rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)),
@@ -32,6 +32,15 @@ body[data-theme="adventcalendar"] {
     color:rgba(255, 255, 255, 1);
     border-bottom:.1em solid rgba(255, 255, 255, .9);
   }
+
+  title {
+    font: 2.6em 'Oleo Script Swash Caps', cursive;
+    color:rgba(0, 148, 117, 1);
+    text-shadow: .05em .05em .015em rgba(255, 255, 255, .9);
+    padding-left:.25em;
+    margin:.5em 0;
+  }
+
 
   h1 {
     font: 2.6em 'Oleo Script Swash Caps', cursive;
