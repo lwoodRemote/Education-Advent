@@ -168,9 +168,9 @@
 
       },
       {
-        'date'  : '02.12.2023',
-        'title':'title',
-        'content' : ''
+        'date'  : '02.12.2022',
+        'title':'Helping Santa',
+        'content' : 'https://imagehostscased.neocities.org/day2'
       },
       {
         'title':'title',
@@ -214,7 +214,7 @@
       },
       {
         'date'  : '11.12.2022',
-        'title':'Helping Santa',
+        'title':'Helping Santa ...Again',
         'content' : 'https://imagehostscased.neocities.org/day11'
       },
       {
