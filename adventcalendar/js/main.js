@@ -189,7 +189,7 @@
       },
       {
         'date'  : '06.12.2022',
-        'title':'title',
+        'title':'Shortcut Tricks',
         'content' : 'https://imagehostscased.neocities.org/advent%20sc.png'
       },
       {
@@ -214,8 +214,8 @@
       },
       {
         'date'  : '11.12.2023',
-        'title':'title',
-        'content' : 'some content'
+        'title':'Helping Santa',
+        'content' : 'https://southcentralambulance-my.sharepoint.com/:v:/r/personal/ana_santos_scas_nhs_uk/Documents/Microsoft%20Teams%20Chat%20Files/santa.mov?csf=1&web=1&e=NWXyvr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D'
       },
       {
         'date'  : '12.12.2022',
@@ -254,7 +254,7 @@
       },
       {
         'date'  : '19.12.2022',
-        'title':'title',
+        'title':'Shortcut Tricks',
         'content' : 'https://imagehostscased.neocities.org/day_19.png'
       },
       {
