@@ -243,9 +243,9 @@
         'content' : 'some content'
       },
       {
-        'date'  : '17.12.2023',
-        'title':'title',
-        'content' : 'some content'
+        'date'  : '17.12.2022',
+        'title':'Frostbite Moulage',
+        'content' : 'https://imagehostscased.neocities.org/day_17.png'
       },
       {
         'date'  : '18.12.2023',
