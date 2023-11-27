@@ -193,9 +193,9 @@
         'content' : 'https://imagehostscased.neocities.org/advent%20sc.png'
       },
       {
-        'date'  : 'Elves Getting Packed',
-        'title':'title',
-        'content' : 'some content'
+        'date'  : '07.12.2022',
+        'title':'Eleanor Our SCAS Elf Restocking For Christmas Night ',
+        'content' : 'https://imagehostscased.neocities.org/day7'
       },
       {
         'date'  : '8.12.2023',
