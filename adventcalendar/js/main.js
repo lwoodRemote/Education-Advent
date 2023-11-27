@@ -223,7 +223,7 @@
         'content' : 'https://imagehostscased.neocities.org/day_12.png'
       },
       {
-        'date'  : '13.12.2023',
+        'date'  : '13.12.2022',
         'title':'Celebrating Different Cultures',
         'content' : 'https://imagehostscased.neocities.org/day13'
       },
