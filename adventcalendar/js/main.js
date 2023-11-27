@@ -265,7 +265,7 @@
       {
         'date'  : '21.12.2022',
         'title':'Helpng Santa ...Again, Again, Again',
-        'content' : 'https://imagehostscased.neocities.org/day21'
+        'content' : 'https://imagehostscased.neocities.org/day21%20Border'
       },
       {
         'date'  : '22.12.2022',
