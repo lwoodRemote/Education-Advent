@@ -193,7 +193,7 @@
         'content' : 'https://imagehostscased.neocities.org/advent%20sc.png'
       },
       {
-        'date'  : '07.12.2023',
+        'date'  : 'Elves Getting Packed',
         'title':'title',
         'content' : 'some content'
       },
