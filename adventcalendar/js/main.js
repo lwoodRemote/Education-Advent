@@ -224,8 +224,8 @@
       },
       {
         'date'  : '13.12.2023',
-        'title':'title',
-        'content' : 'some content'
+        'title':'Celebrating Different Cultures',
+        'content' : 'https://imagehostscased.neocities.org/day13'
       },
       {
         'date'  : '14.12.2023',
@@ -264,7 +264,7 @@
       },
       {
         'date'  : '21.12.2022',
-        'title':'tHelpng Santa ...Again, Again, Again',
+        'title':'Helpng Santa ...Again, Again, Again',
         'content' : 'https://imagehostscased.neocities.org/day21'
       },
       {
