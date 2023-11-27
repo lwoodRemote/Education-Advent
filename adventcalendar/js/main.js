@@ -269,8 +269,8 @@
       },
       {
         'date'  : '22.12.2023',
-        'title':'title',
-        'content' : 'some content'
+        'title':'Christmas Last Year',
+        'content' : 'https://imagehostscased.neocities.org/day_22.png'
       },
       {
         'date'  : '23.12.2023',
