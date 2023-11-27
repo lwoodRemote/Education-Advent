@@ -244,7 +244,7 @@
       },
       {
         'date'  : '17.12.2022',
-        'title':'Frostbite Moulage',
+        'title':'Santa Has Burnt His Feet',
         'content' : 'https://imagehostscased.neocities.org/day_17.png'
       },
       {
