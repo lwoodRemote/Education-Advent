@@ -170,7 +170,7 @@
       {
         'date'  : '02.12.2022',
         'title':'Helping Santa',
-        'content' : 'https://imagehostscased.neocities.org/day2'
+        'content' : 'https://imagehostscased.neocities.org/day2%20Border'
       },
       {
         'title':'title',
