@@ -215,7 +215,7 @@
       {
         'date'  : '11.12.2022',
         'title':'Helping Santa ...Again',
-        'content' : 'https://imagehostscased.neocities.org/day11'
+        'content' : 'https://imagehostscased.neocities.org/day11%20Border'
       },
       {
         'date'  : '12.12.2022',
