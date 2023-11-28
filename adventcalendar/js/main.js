@@ -225,7 +225,7 @@
       {
         'date'  : '13.12.2022',
         'title':'Celebrating Different Cultures',
-        'content' : 'https://imagehostscased.neocities.org/day13'
+        'content' : 'https://imagehostscased.neocities.org/Day%2013%20border'
       },
       {
         'date'  : '14.12.2023',
