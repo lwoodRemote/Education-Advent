@@ -235,7 +235,7 @@
       {
         'date'  : '15.12.2022',
         'title':'Christmas Chills Hypothermia Moulage ',
-        'content' : 'shttps://imagehostscased.neocities.org/day_15.png'
+        'content' : 'https://imagehostscased.neocities.org/day_15.png'
       },
       {
         'date'  : '16.12.2023',
