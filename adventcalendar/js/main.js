@@ -161,9 +161,9 @@
 
   var data = [
       {
-        'date'  : '01.12.2023',
-        'title' : 'title',
-        'content' : ''
+        'date'  : '01.12.2022',
+        'title' : 'Welcome',
+        'content' : 'https://imagehostscased.neocities.org/Day%201%20border'
 
 
       },
@@ -184,12 +184,12 @@
       },
       {
         'date'  : '05.12.2022',
-        'title':'Make sure to check our benifits and discounts during the festive period',
+        'title':'Make Sure to Check Our Benefits and Discounts During the Festive Period',
         'content' : 'https://scasbenefits.co.uk/benefits__discounts/'
       },
       {
         'date'  : '06.12.2022',
-        'title':'Shortcut Tricks',
+        'title':'Keyboard Shortcut Tricks',
         'content' : 'https://imagehostscased.neocities.org/advent%20sc.png'
       },
       {
@@ -198,9 +198,9 @@
         'content' : 'https://imagehostscased.neocities.org/day7'
       },
       {
-        'date'  : '8.12.2023',
-        'title':'title',
-        'content' : 'some content'
+        'date'  : '8.12.2022',
+        'title':'Christmas Flu Moulage',
+        'content' : 'https://imagehostscased.neocities.org/day_8.png'
       },
       {
         'date'  : '9.12.2023',
@@ -233,9 +233,9 @@
         'content' : 'some content'
       },
       {
-        'date'  : '15.12.2023',
-        'title':'title',
-        'content' : 'some content'
+        'date'  : '15.12.2022',
+        'title':'Christmas Chills Hypothermia Moulage ',
+        'content' : 'shttps://imagehostscased.neocities.org/day_15.png'
       },
       {
         'date'  : '16.12.2023',
@@ -254,7 +254,7 @@
       },
       {
         'date'  : '19.12.2022',
-        'title':'Shortcut Tricks',
+        'title':'Keyboard Shortcut Tricks',
         'content' : 'https://imagehostscased.neocities.org/day_19.png'
       },
       {
