@@ -173,8 +173,8 @@
         'content' : 'https://imagehostscased.neocities.org/day2%20Border'
       },
       {
-        'title': 'We Found the Sleigh',
         'date'  : '03.12.2023',
+        'title': 'We Found the Sleigh',
         'content' : 'https://imagehostscased.neocities.org/Day%203.png'
       },
       {
@@ -198,12 +198,12 @@
         'content' : 'https://imagehostscased.neocities.org/day7'
       },
       {
-        'date'  : '8.12.2023',
+        'date'  : '08.12.2023',
         'title':'Christmas Flu Moulage',
         'content' : 'https://imagehostscased.neocities.org/day_8.png'
       },
       {
-        'date'  : '9.12.2023',
+        'date'  : '09.12.2023',
         'title':'title',
         'content' : 'some content'
       },
