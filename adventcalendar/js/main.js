@@ -161,44 +161,44 @@
 
   var data = [
       {
-        'date'  : '01.12.2022',
+        'date'  : '01.12.2023',
         'title' : 'Welcome',
         'content' : 'https://imagehostscased.neocities.org/Day%201%20border'
 
 
       },
       {
-        'date'  : '02.12.2022',
+        'date'  : '02.12.2023',
         'title':'Helping Santa',
         'content' : 'https://imagehostscased.neocities.org/day2%20Border'
       },
       {
         'title': 'We Found the Sleigh',
-        'date'  : '03.12.2022',
+        'date'  : '03.12.2023',
         'content' : 'https://imagehostscased.neocities.org/Day%203.png'
       },
       {
-        'date'  : '04.12.2022',
+        'date'  : '04.12.2023',
         'title':'Frostbite Moulage',
         'content' : 'https://imagehostscased.neocities.org/day_4.png'
       },
       {
-        'date'  : '05.12.2022',
+        'date'  : '05.12.2023',
         'title':'Make Sure to Check Our Benefits and Discounts During the Festive Period',
         'content' : 'https://scasbenefits.co.uk/benefits__discounts/'
       },
       {
-        'date'  : '06.12.2022',
+        'date'  : '06.12.2023',
         'title':'Keyboard Shortcut Tricks',
         'content' : 'https://imagehostscased.neocities.org/advent%20sc.png'
       },
       {
-        'date'  : '07.12.2022',
+        'date'  : '07.12.2023',
         'title':'Eleanor Our SCAS Elf Restocking For Christmas Night ',
         'content' : 'https://imagehostscased.neocities.org/day7'
       },
       {
-        'date'  : '8.12.2022',
+        'date'  : '8.12.2023',
         'title':'Christmas Flu Moulage',
         'content' : 'https://imagehostscased.neocities.org/day_8.png'
       },
@@ -213,17 +213,17 @@
         'content' : 'some content'
       },
       {
-        'date'  : '11.12.2022',
+        'date'  : '11.12.2023',
         'title':'Helping Santa ...Again',
         'content' : 'https://imagehostscased.neocities.org/day11%20Border'
       },
       {
-        'date'  : '12.12.2022',
+        'date'  : '12.12.2023',
         'title':'Reindeer bite moulage',
         'content' : 'https://imagehostscased.neocities.org/day_12.png'
       },
       {
-        'date'  : '13.12.2022',
+        'date'  : '13.12.2023',
         'title':'Celebrating Different Cultures',
         'content' : 'https://imagehostscased.neocities.org/Day%2013%20border'
       },
@@ -233,7 +233,7 @@
         'content' : 'some content'
       },
       {
-        'date'  : '15.12.2022',
+        'date'  : '15.12.2023',
         'title':'Christmas Chills Hypothermia Moulage ',
         'content' : 'https://imagehostscased.neocities.org/day_15.png'
       },
@@ -243,7 +243,7 @@
         'content' : 'some content'
       },
       {
-        'date'  : '17.12.2022',
+        'date'  : '17.12.2023',
         'title':'Santa Has Burnt His Feet',
         'content' : 'https://imagehostscased.neocities.org/day_17.png'
       },
@@ -253,7 +253,7 @@
         'content' : 'some content'
       },
       {
-        'date'  : '19.12.2022',
+        'date'  : '19.12.2023',
         'title':'Keyboard Shortcut Tricks',
         'content' : 'https://imagehostscased.neocities.org/day_19.png'
       },
@@ -263,12 +263,12 @@
         'content' : 'some content'
       },
       {
-        'date'  : '21.12.2022',
+        'date'  : '21.12.2023',
         'title':'Helpng Santa ...Again, Again, Again',
         'content' : 'https://imagehostscased.neocities.org/day21%20Border'
       },
       {
-        'date'  : '22.12.2022',
+        'date'  : '22.12.2023',
         'title':'Christmas Last Year',
         'content' : 'https://imagehostscased.neocities.org/day_22.png'
       },
