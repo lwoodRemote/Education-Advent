@@ -173,9 +173,9 @@
         'content' : 'https://imagehostscased.neocities.org/day2%20Border'
       },
       {
-        'title':'title',
-        'date'  : '03.12.2023',
-        'content' : 'some content'
+        'title': 'We Found the Sleigh',
+        'date'  : '03.12.2022',
+        'content' : 'https://imagehostscased.neocities.org/Day%203.png'
       },
       {
         'date'  : '04.12.2022',
