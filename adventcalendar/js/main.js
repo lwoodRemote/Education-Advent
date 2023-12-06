@@ -204,8 +204,8 @@
       },
       {
         'date'  : '09.12.2023',
-        'title':'title',
-        'content' : 'some content'
+        'title':'Meet The TEL Team',
+        'content' : 'https://imagehostscased.neocities.org/tel_relaunch_FINAL%201.pdf'
       },
       {
         'date'  : '10.12.2023',
@@ -285,7 +285,7 @@
       {
         'date'  : '25.12.2023',
         'title':'Happy Christmas',
-        'content' : ''
+        'content' : 'https://imagehostscased.neocities.org/day25%20Border'
       },
     ];
 
