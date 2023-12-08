@@ -229,8 +229,8 @@
       },
       {
         'date'  : '14.12.2023',
-        'title':'title',
-        'content' : 'some content'
+        'title':'Time to Book Some Christmas CPD?',
+        'content' : 'https://imagehostscased.neocities.org/day14%20Border'
       },
       {
         'date'  : '15.12.2023',
