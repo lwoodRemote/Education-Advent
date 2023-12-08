@@ -209,8 +209,8 @@
       },
       {
         'date'  : '10.12.2023',
-        'title':'title',
-        'content' : 'some content'
+        'title':'A Christmassy TEL Day',
+        'content' : 'https://imagehostscased.neocities.org/day10%20Border'
       },
       {
         'date'  : '11.12.2023',
