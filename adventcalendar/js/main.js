@@ -239,8 +239,8 @@
       },
       {
         'date'  : '16.12.2023',
-        'title':'title',
-        'content' : 'some content'
+        'title':'Word Surgery',
+        'content' : 'https://imagehostscased.neocities.org/day_16.png'
       },
       {
         'date'  : '17.12.2023',
