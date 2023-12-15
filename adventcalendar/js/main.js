@@ -249,8 +249,8 @@
       },
       {
         'date'  : '18.12.2023',
-        'title':'title',
-        'content' : 'some content'
+        'title':'Helping Santa... Again, Again',
+        'content' : 'https://imagehostscased.neocities.org/day18%20Border'
       },
       {
         'date'  : '19.12.2023',
@@ -279,7 +279,7 @@
       },
       {
         'date'  : '24.12.2023',
-        'title':'Happy Christmas Evening',
+        'title':'Happy Christmas Eve',
         'content' : ''
       },
       {
