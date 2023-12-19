@@ -259,8 +259,8 @@
       },
       {
         'date'  : '20.12.2023',
-        'title':'title',
-        'content' : 'some content'
+        'title':'Keyboard Shortcuts',
+        'content' : 'https://imagehostscased.neocities.org/day_20.png'
       },
       {
         'date'  : '21.12.2023',
