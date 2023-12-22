@@ -274,8 +274,8 @@
       },
       {
         'date'  : '23.12.2023',
-        'title':'title',
-        'content' : ''
+        'title':'SCAS Elves',
+        'content' : 'https://imagehostscased.neocities.org/Day%2023.png'
       },
       {
         'date'  : '24.12.2023',
