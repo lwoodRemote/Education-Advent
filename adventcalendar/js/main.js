@@ -280,7 +280,7 @@
       {
         'date'  : '24.12.2023',
         'title':'Happy Christmas Eve',
-        'content' : ''
+        'content' : 'https://imagehostscased.neocities.org/Christmas%20Comp'
       },
       {
         'date'  : '25.12.2023',
